@@ -31,6 +31,14 @@
   margin: 0 5px;
   vertical-align: middle;
 }
+.jumbo {
+  /*background-image: url("images/viking_ship_background_medium.jpg");*/
+  height: 380px;
+  display: block;
+  margin-top: 52px;
+  background: #333 url("images/viking_ship_background_medium.jpg") 0 0 no-repeat;
+  background-size: 100% 380px;
+}
 
 a {
   text-decoration: none;

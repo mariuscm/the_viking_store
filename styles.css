@@ -1,0 +1,38 @@
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+.logo {
+  font-size: 22px;
+  float: left;
+}
+
+.navbar {
+  height: 50px;
+  width: 100%;
+  line-height: 50px;
+  border-bottom: 2px solid #333;
+  position: fixed;
+  background: #fff;
+  top: 0;
+  left: 0;
+  z-index: 100;
+}
+
+.cart-container {
+  float: right;
+  line-height: 50px;
+  font-size: 16px;
+}
+
+.cart-container img {
+  height: 35px;
+  width: 35px;
+  margin: 0 5px;
+  vertical-align: middle;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
